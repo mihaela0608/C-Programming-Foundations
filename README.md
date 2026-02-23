@@ -52,7 +52,3 @@ As the course progresses, this repository may include:
 More advanced concepts will be added as I advance academically.
 
 ---
-
-```bash
-gcc file.c -o program
-./program
