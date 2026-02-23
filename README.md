@@ -1,6 +1,6 @@
 # ⚙️ C Programming – Foundations & University Work
 
-Welcome to my C programming repository.  
+Welcome to my C programming repository!
 
 This repository documents my journey into low-level programming through university coursework and independent practice. It reflects my commitment to building strong fundamentals in software engineering by understanding how programs interact with memory, hardware, and the operating system.
 
