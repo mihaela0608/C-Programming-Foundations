@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello, world");
-    return 0;
+    float num = 8.9;
+    printf("Hello, world %f", num);
 }
