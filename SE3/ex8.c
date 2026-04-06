@@ -21,9 +21,9 @@ int main(){
         int previous = numbers[ind];
         numbers[ind] = num;
         
-        for (int i = ind + 1; i < 19; i++){
-            numbers[i] = previous;
-            previous = numbers[i + 1];
+        for (int j = ind + 1; j < 19; j++){
+            numbers[j] = previous;
+            previous = numbers[j + 1];
         }
         
     }
